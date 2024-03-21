@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slim205
-- 👀 I’m interested in Machine Learning and Modern Statistics and their applications in Health, Energy and Quantitative Finance
+- 👀 I’m interested in Machine Learning and Modern Statistics and their applications in Health, Energy and Finance.
 
 
 <!---
